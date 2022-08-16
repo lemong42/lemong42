@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Cursando: Acessibilidade web parte 1: tornando seu front-end inclusivo
+- 🔭 Cursando: Arquitetura CSS: descomplicando os problemas
 - 🌱 Atualmente estou me aprofundando em HTML e CSS
 - 📫 Contato: danellers4@gmail.com
 - ⚡ Fun fact: sou formada em design de produto mas já passei pelo design de games e pela biologia
