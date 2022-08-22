@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Curso atual: flexbox
-- 🌱 Atualmente estou me aprofundando em HTML e CSS
+- 🔭 Curso atual: React: abstraindo seu CSS com Styled Components
+- 🌱 Atualmente estou iniciando em React
 - 📫 Contato: danellers4@gmail.com
 - ⚡ Fun fact: sou formada em design de produto mas já passei pelo design de games e pela biologia
 
