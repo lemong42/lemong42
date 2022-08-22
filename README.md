@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Curso atual: React: abstraindo seu CSS com Styled Components
-- 🌱 Atualmente estou iniciando em React
+- 🔭 Meu curso atual é JavaScript para Web: Crie páginas dinâmicas
+- 🌱 Atualmente estou me aprofundando em JavaScript para páginas web
 - 📫 Contato: danellers4@gmail.com
 - ⚡ Fun fact: sou formada em design de produto mas já passei pelo design de games e pela biologia
 
