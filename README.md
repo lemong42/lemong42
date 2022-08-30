@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Meu curso atual é JavaScript para Web: Crie páginas dinâmicas
-- 🌱 Atualmente estou me aprofundando em JavaScript para páginas web
+- 🔭 Meu curso atual é SEO: otimização de sites
+- 🌱 Atualmente estou me aprofundando em JavaScript, CSS e HTML para páginas web
 - 📫 Contato: danellers4@gmail.com
 - ⚡ Fun fact: sou formada em design de produto mas já passei pelo design de games e pela biologia
 
