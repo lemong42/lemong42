@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🌱 Atualmente estou me aprofundando em JavaScript, CSS e HTML para páginas web
-- 📫 Contato: danellers4@gmail.com
-- ⚡ Fun fact: sou formada em design de produto mas já passei pelo design de games e pela biologia
+- 🌱 Today I'm learning more about UI deisgn to improve my projects
+- 📫 Contact: danellers4@gmail.com
+- ⚡ Fun fact: I have a degree in industrial design but I already tryed biology and games design school
 
 <div style="display: inline_block">
-  <h4>Tecnologias trabalhadas até agora:</h4>
+  <h4>Tecnologies used by now:</h4>
   <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
