@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I have a degree in industrial design but I already tryed biology and games design school
 
 <div style="display: inline_block">
-  <h4>Tecnologies used by now:</h4>
+  <h4>Tecnologies learned by now:</h4>
   <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
