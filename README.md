@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Today I'm learning more about UI deisgn to improve my projects
+- 🌱 Today I'm learning more about UI design to improve my projects
 - 📫 Contact: danellers4@gmail.com
 - ⚡ Fun fact: I have a degree in industrial design but I already tryed biology and games design school
 
